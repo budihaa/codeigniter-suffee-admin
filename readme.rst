@@ -1,3 +1,10 @@
+##################
+Codeigniter Suffee Admin
+##################
+
+Codeingiter with suffee admin template. Free to use! 
+Notes: Don't forget to change your $config['base_url']
+
 ###################
 What is CodeIgniter
 ###################
