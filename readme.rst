@@ -3,7 +3,8 @@ Codeigniter Suffee Admin
 ##################
 
 Codeingiter with suffee admin template. Free to use! 
-Notes: Don't forget to change your $config['base_url']
+Notes: Don't forget to change your $config['base_url'] = 'http://yourcurrenturl/';
+So all css & js load successfully.
 
 ###################
 What is CodeIgniter
